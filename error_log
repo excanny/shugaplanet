@@ -1,0 +1,6 @@
+[19-Jan-2020 15:43:34 Africa/Lagos] PHP Fatal error:  Cannot redeclare Welcome::reports() in /home/lovegard/shugaplanet.com/application/controllers/Welcome.php on line 74
+[19-Jan-2020 15:43:58 Africa/Lagos] PHP Fatal error:  Cannot redeclare Welcome::reports() in /home/lovegard/shugaplanet.com/application/controllers/Welcome.php on line 74
+[19-Jan-2020 15:44:48 Africa/Lagos] PHP Fatal error:  Cannot redeclare Welcome::reports() in /home/lovegard/shugaplanet.com/application/controllers/Welcome.php on line 75
+[19-Jan-2020 15:45:43 Africa/Lagos] PHP Fatal error:  Cannot redeclare Welcome::reports() in /home/lovegard/shugaplanet.com/application/controllers/Welcome.php on line 75
+[19-Jan-2020 15:48:03 Africa/Lagos] PHP Fatal error:  Cannot redeclare Welcome::reports() in /home/lovegard/shugaplanet.com/application/controllers/Welcome.php on line 75
+[19-Jan-2020 15:48:08 Africa/Lagos] PHP Fatal error:  Cannot redeclare Welcome::reports() in /home/lovegard/shugaplanet.com/application/controllers/Welcome.php on line 75
